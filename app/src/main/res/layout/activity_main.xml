@@ -26,8 +26,10 @@
             android:entries="@array/hobbies"
             android:layout_marginTop="10dp"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:spinnerMode="dialog"/>
 <!--        독서 음악감상 영화감상 게임 축구 야구관람-->
+
 
     </LinearLayout>
 </layout>
