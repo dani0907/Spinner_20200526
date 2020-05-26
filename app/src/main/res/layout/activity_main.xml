@@ -31,5 +31,17 @@
 <!--        독서 음악감상 영화감상 게임 축구 야구관람-->
 
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="지원직군"/>
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:spinnerMode="dialog"/>
+
+
     </LinearLayout>
 </layout>
